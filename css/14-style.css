@@ -1,0 +1,27 @@
+/* layout properties will not be inherited: */
+/* .parent {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  position: relative;
+} */
+
+/* inheritance not recommended to use */
+.parent {
+  color: orange;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.children {
+  position: relative;
+  left: 100px;
+  width: 140px;
+  background-color: inherit;
+}

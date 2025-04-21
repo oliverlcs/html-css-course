@@ -1,0 +1,19 @@
+/* selector { property: value } */
+
+h1 {
+  color: blueviolet;
+}
+
+h2 {
+  /* color: rgb(red, green, blue) */
+  color: rgb(200, 100, 100);
+  /* color: rgba(red, green, blue, alpha-transparency) */
+  background-color: rgba(200, 100, 100, 0.9);
+}
+
+h3 {
+  /* hex: #rrggbb */
+  /* hex: #00ff00 */
+  /* ff = 16^1 * 15 + 16^0 * 15 = 255 */
+  color: #ff000026;
+}

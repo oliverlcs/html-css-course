@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: blueviolet;
+}
+
+.container {
+  border: 2px solid white;
+  width: 800px;
+  height: 400px;
+  margin: 20px auto;
+  /* Flexbox stuff here */
+  display: flex;
+  /* flex-direction: column-reverse; */
+  /* justify-content: start;
+  align-items: center; */
+  /* flex-wrap: wrap; */
+  align-content: start;
+}
+
+.container .child {
+  width: 200px;
+  height: 50px;
+  background: white;
+  text-align: center;
+  margin: 10px;
+}
+
+.special {
+  /* order: 1; */
+  /* align-self: flex-endf; */
+  flex-shrink: 5;
+}
+
+.special-two {
+  flex-grow: 4;
+}

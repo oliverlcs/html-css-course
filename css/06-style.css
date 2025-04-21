@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+div {
+  /* border-width: 2px;
+  border-style: solid;
+  border-color: skyblue; */
+  /* border: 10px dotted teal; */
+  /* border-left: 2px solid crimson; */
+  /* border-right: 4px solid blue; */
+  /* border-bottom: 2px solid black;
+  border-top: 2px solid black; */
+  /* border-left: 2px solid rgb(0, 0, 116);
+  border-top: 2px solid rgb(120, 4, 228);
+  border-right: 2px solid rgb(236, 11, 236);
+  border-bottom: 2px solid skyblue; */
+
+  /* border: 2px solid mediumaquamarine; */
+  /* padding: 20px; */
+  /* padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: right; */
+  /* padding: 20px 10px;
+  text-align: right; */
+
+  border: 2px solid teal;
+  /* margin: 20px; */
+  /* margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 40px;
+  margin-bottom: 5px; */
+  margin: 10px 20px;
+}

@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+div {
+  height: 100vh;
+  background-color: skyblue;
+  /* background-image: url("https://images.pexels.com/photos/31325374/pexels-photo-31325374/free-photo-of-open-vintage-book-on-rustic-wooden-floor.jpeg?auto=compress&cs=tinysrgb&w=1200&lazy=load"); */
+  /* background-image: url("https://images.pexels.com/photos/552785/pexels-photo-552785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top; 
+  background-attachment: fixed; */
+
+  /* not recommended: */
+  background: url("https://images.pexels.com/photos/2339009/pexels-photo-2339009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")
+    no-repeat center / cover fixed;
+}

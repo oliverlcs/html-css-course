@@ -1,0 +1,15 @@
+div {
+  background-color: skyblue;
+  height: 100px;
+  width: 300px;
+}
+
+span {
+  background-color: teal;
+  height: 50px;
+  width: 100px;
+  display: inline-block;
+}
+li {
+  display: none;
+}

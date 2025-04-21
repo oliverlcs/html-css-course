@@ -1,0 +1,14 @@
+section {
+  width: 500px;
+  height: 500px;
+  background-color: teal;
+}
+
+div {
+  /* width: 100px;
+  height: 100px; */
+
+  width: 80%;
+  height: 80%;
+  background-color: skyblue;
+}

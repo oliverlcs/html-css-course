@@ -1,0 +1,15 @@
+section * {
+  border: 2px solid darkblue;
+}
+
+#one {
+  border: 10px solid skyblue;
+}
+
+.one {
+  font-size: 4em;
+}
+
+.two {
+  color: tomato;
+}

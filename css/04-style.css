@@ -1,0 +1,19 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 4em;
+  text-transform: lowercase;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  line-height: 30px;
+  letter-spacing: 3px;
+  word-spacing: 40px;
+  cursor: text;
+  font-weight: 900;
+}
+
+a {
+  text-decoration: none;
+}
